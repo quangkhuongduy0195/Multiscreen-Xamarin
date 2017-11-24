@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>Multiscreen-Xamarin</string>
+	<string>MultiscreenXamarin</string>
 	<key>CFBundleName</key>
-	<string>Multiscreen-Xamarin</string>
+	<string>MultiscreenXamarin</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.quangkhuongduy.Multiscreen-Xamarin</string>
+	<string>com.quangkhuongduy.MultiscreenXamarin</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
