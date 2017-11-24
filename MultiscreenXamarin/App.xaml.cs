@@ -8,7 +8,10 @@ namespace MultiscreenXamarin
         {
             InitializeComponent();
 
-            MainPage = new MultiscreenXamarinPage();
+            MainPage = new NavigationPage(new MultiscreenXamarinPage())
+            {
+                BarTextColor = Color.White, BarBackgroundColor = Color.Gray
+            };  //new MultiscreenXamarinPage();
         }
 
         protected override void OnStart()

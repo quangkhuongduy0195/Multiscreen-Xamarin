@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/mscorlib.dll
+Function=CreateZStream
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/System.dll
+Function=UIApplicationMain
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/quangkhuongduy/Documents/xamarin/Multiscreen-Xamarin/iOS/obj/iPhone/Debug/device-builds/iphone8.2-10.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip

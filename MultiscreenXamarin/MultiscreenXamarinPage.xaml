@@ -1,4 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:MultiscreenXamarin" x:Class="MultiscreenXamarin.MultiscreenXamarinPage">
-	<Label Text="Welcome to Xamarin Forms!" VerticalOptions="Center" HorizontalOptions="Center" />
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage BackgroundColor="Gray" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:MultiscreenXamarin" x:Class="MultiscreenXamarin.MultiscreenXamarinPage">
+    <ContentPage.Padding>
+        <OnPlatform 
+            x:TypeArguments="Thickness"
+            iOS="0,20,0,0"
+            Android="0,0,0,0"
+        />
+    </ContentPage.Padding>
+    <StackLayout Orientation="Vertical"
+        Margin="10,0,10,0"
+        VerticalOptions="FillAndExpand"
+        HorizontalOptions="FillAndExpand">
+
+        <Label Text="Enter your Pokemon number"
+            Margin="0,5,0,5"
+            FontSize="14"/>
+        
+        <Entry Placeholder="Enter your Pokemon number..."
+            Margin="0,5,0,5"
+            Keyboard="Numeric"
+            HeightRequest="38"
+            x:Name="txtNumberPokemon"/>
+
+        <Button x:Name="btnFindPokemon"
+            Text="Find Pokemon"
+            TextColor="White"
+            FontAttributes="Bold"
+            Margin="0,5,0,5"
+            Clicked="ButtonFind_Clicked"/>
+
+        <Label Text="Name pokemon"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            x:Name="lblName"
+            Margin="0,5,0,5"
+            FontSize="24"/>
+
+        <Image x:Name="imgPokemon"
+            Margin="0,5,0,5"
+            HorizontalOptions="Center"
+            BackgroundColor="LightGray"
+            WidthRequest="200"
+            HeightRequest="200"/>
+
+        <Button x:Name="btnViewInfo"
+            Text="View Info"
+            TextColor="White"
+            FontAttributes="Bold"
+            Margin="0,5,0,5"
+            Clicked="Handle_Clicked"/>
+        
+    </StackLayout>
 </ContentPage>

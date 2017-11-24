@@ -1,8 +1,33 @@
 ﻿<Properties StartupConfiguration="{37689EB5-FE1C-4F15-825E-D44DC6B3F607}|Default">
-  <MonoDevelop.Ide.ItemProperties.MultiscreenXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A2F90225-C45B-4278-A273-4FFED0BEEB5D">
+  <MonoDevelop.Ide.ItemProperties.MultiscreenXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FFC0632F-C9D9-4F88-8B3B-0FC7B566FDD2">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.MultiscreenXamarin.iOS>
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiscreenXamarin/DetailPage.xaml">
+    <Files>
+      <File FileName="MultiscreenXamarin/MultiscreenXamarinPage.xaml.cs" Line="18" Column="41" />
+      <File FileName="MultiscreenXamarin/MultiscreenXamarinPage.xaml" Line="8" Column="11" />
+      <File FileName="MultiscreenXamarin/DetailPage.xaml" Line="50" Column="14" />
+      <File FileName="MultiscreenXamarin/DetailPage.xaml.cs" Line="25" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiscreenXamarin" expanded="True">
+            <Node name="MultiscreenXamarin" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="DetailPage.xaml" expanded="True" selected="True" />
+              <Node name="MultiscreenXamarinPage.xaml" expanded="True" />
+            </Node>
+            <Node name="MultiscreenXamarin.Droid" expanded="True" />
+            <Node name="MultiscreenXamarin.iOS" expanded="True" />
+            <Node name="PokedexNET" expanded="True">
+              <Node name="data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

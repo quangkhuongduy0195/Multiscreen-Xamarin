@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiscreenXamarin.iOS", "i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiscreenXamarin.Droid", "Droid\MultiscreenXamarin.Droid.csproj", "{7C12A202-3A36-411B-BE5A-6E05A015ADEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokedexNET", "..\..\..\Downloads\PokedexNET_Starter-master\PokedexNET.csproj", "{32051164-C8CC-4F3A-BB10-6CBE77192EDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -41,5 +43,17 @@ Global
 		{7C12A202-3A36-411B-BE5A-6E05A015ADEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C12A202-3A36-411B-BE5A-6E05A015ADEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C12A202-3A36-411B-BE5A-6E05A015ADEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Release|iPhone.Build.0 = Release|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32051164-C8CC-4F3A-BB10-6CBE77192EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
